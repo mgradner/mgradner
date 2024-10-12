@@ -46,39 +46,39 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 ## 📊 Skills
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=C++" alt="C++" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60" />
     <p>C++</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=MATLAB" alt="MATLAB" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/MATLAB_Logo.png" alt="MATLAB" width="60" />
     <p>MATLAB</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=Python" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" />
     <p>Python</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=R" alt="R" />
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60" />
     <p>R</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=Jupyter" alt="Jupyter" />
+    <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="60" />
     <p>JupyterLab</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=Tableau" alt="Tableau" />
+    <img src="https://www.tableau.com/sites/default/files/pages/logo-tableau.svg" alt="Tableau" width="60" />
     <p>Tableau</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=PowerBI" alt="PowerBI" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Microsoft_Power_BI_Logo.png" alt="PowerBI" width="60" />
     <p>PowerBI</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=pandas" alt="pandas" />
+    <img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="pandas" width="60" />
     <p>pandas</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/60?text=matplotlib" alt="matplotlib" />
+    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="60" />
     <p>matplotlib</p>
   </div>
 </div>
