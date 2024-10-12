@@ -47,43 +47,43 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 <table>
   <tr>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
       <br>C++
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" height="60" />
       <br>MATLAB
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
       <br>Python
     </td>
   </tr>
   <tr>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60" />
       <br>R
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" />
       <br>JupyterLab
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" />
+      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" height="60" />
       <br>Tableau
     </td>
   </tr>
   <tr>
     <td style="text-align: center; width:96;">
-      <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Photos.png" alt="PowerBI" width="60" />
+      <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Photos.png" alt="PowerBI" width="60" height="60" />
       <br>PowerBI
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60" />
       <br>pandas
     </td>
     <td style="text-align: center; width:96;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" height="60" />
       <br>matplotlib
     </td>
   </tr>
