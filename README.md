@@ -67,11 +67,11 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
       <br>JupyterLab
     </td>
     <td style="text-align: center; width: 10%; padding: 10px; border: 1px solid #ccc;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="60" height="60" />
+      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" height="60" />
       <br>Tableau
     </td>
     <td style="text-align: center; width: 10%; padding: 10px; border: 1px solid #ccc;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Power BI" width="60" height="60" />
+      <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Photos.png" alt="Power BI" width="60" height="60" />
       <br>Power BI
     </td>
     <td style="text-align: center; width: 10%; padding: 10px; border: 1px solid #ccc;">
