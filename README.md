@@ -114,8 +114,6 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michala.gradner/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2845-8025)
 
-[![LinkedIn](https://via.placeholder.com/20x20.png?text=🔗)](Your LinkedIn Profile) [![Twitter](https://via.placeholder.com/20x20.png?text=🐦)](Your Twitter Handle)
-
 ---
 
 ✨ **Thanks for visiting my profile! Let's connect!** ✨
