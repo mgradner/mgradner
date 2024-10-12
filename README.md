@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Michala Gradner
+v# Hi there! 👋 I'm Michala Gradner
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
@@ -47,43 +47,43 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
       <p>C++</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/MATLAB_Logo.png" alt="MATLAB" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" />
       <p>MATLAB</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
       <p>Python</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" />
       <p>R</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" />
       <p>JupyterLab</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://www.tableau.com/sites/default/files/pages/logo-tableau.svg" alt="Tableau" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="60" />
       <p>Tableau</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Microsoft_Power_BI_Logo.png" alt="PowerBI" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="PowerBI" width="60" />
       <p>PowerBI</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="pandas" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="60" />
       <p>pandas</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" />
       <p>matplotlib</p>
     </td>
   </tr>
