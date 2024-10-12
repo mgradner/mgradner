@@ -69,7 +69,7 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
       <p>JupyterLab</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="Tableau" width="60" />
+      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" />
       <p>Tableau</p>
     </td>
   </tr>
