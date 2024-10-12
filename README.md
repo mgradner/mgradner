@@ -1,4 +1,4 @@
-v# Hi there! 👋 I'm Michala Gradner
+# Hi there! 👋 I'm Michala Gradner
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
@@ -58,8 +58,6 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
       <br>Python
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center; width:96;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60" />
       <br>R
@@ -72,8 +70,6 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
       <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" height="60" />
       <br>Tableau
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center; width:96;">
       <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Photos.png" alt="PowerBI" width="60" height="60" />
       <br>PowerBI
@@ -107,7 +103,7 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 
 ## 📬 Get in Touch
 ✉️ **Email:** [mng115@txstate.edu](mailto:mng115@txstate.edu)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michala-gradner-81bbb7242/)  
 🐦 **Twitter:** [@YourTwitterHandle](#)  
 
 [![LinkedIn](https://via.placeholder.com/20x20.png?text=🔗)](Your LinkedIn Profile) [![Twitter](https://via.placeholder.com/20x20.png?text=🐦)](Your Twitter Handle)
