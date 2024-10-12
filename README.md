@@ -101,10 +101,18 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 
 ---
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgradner&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgradner&layout=compact&theme=radical)
+
+---
 ## 📬 Get in Touch
-✉️ **Email:** [mng115@txstate.edu](mailto:mng115@txstate.edu)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michala-gradner-81bbb7242/)  
-🐦 **Twitter:** [@YourTwitterHandle](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michala-gradner-81bbb7242/)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:michalanicole2001@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michala.gradner/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2845-8025)
 
 [![LinkedIn](https://via.placeholder.com/20x20.png?text=🔗)](Your LinkedIn Profile) [![Twitter](https://via.placeholder.com/20x20.png?text=🐦)](Your Twitter Handle)
 
