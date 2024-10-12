@@ -48,43 +48,43 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
   <tr>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
-      <p>C++</p>
+      <br>C++
     </td>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" />
-      <p>MATLAB</p>
+      <br>MATLAB
     </td>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
-      <p>Python</p>
+      <br>Python
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" />
-      <p>R</p>
+      <br>R
     </td>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" />
-      <p>JupyterLab</p>
+      <br>JupyterLab
     </td>
     <td style="text-align: center;">
       <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" alt="Tableau" width="60" />
-      <p>Tableau</p>
+      <br>Tableau
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="PowerBI" width="60" />
-      <p>PowerBI</p>
+      <img src="https://www.pinclipart.com/picdir/middle/246-2466694_microsoft-power-bi-logo-png-clipart-power-bi.png" alt="PowerBI" width="60" />
+      <br>PowerBI
     </td>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="60" />
-      <p>pandas</p>
+      <br>pandas
     </td>
     <td style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" />
-      <p>matplotlib</p>
+      <br>matplotlib
     </td>
   </tr>
 </table>
