@@ -62,7 +62,7 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60" />
       <br>R
     </td>
-    <td style="text-align: center; width: 10%; padding: 10px; border: 1px solid #ccc;">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" />
       <br>JupyterLab
     </td>
