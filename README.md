@@ -95,7 +95,7 @@ I am an **Applied Mathematics** and **Psychology** student at Texas State Univer
 ---
 
 ## 🌍 Community Service
-🎉 **Co-Director**, Julia Robinson Math Festival, TX State University  
+🎉 **Co-Director**, Julia Robinson Math Festival at Texas State University
 🚀 **Jobsite Leader**, The Big Event  
 🌊 **Volunteer**, San Marcos Annual River Clean-up and Sights and Sounds  
 
