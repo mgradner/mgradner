@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Michala Gradner
 
-![Profile Banner](https://drive.google.com/file/d/1Z1alZcwSvVqNIAONI-soup-M1ZB_ZWM9/view?usp=sharing)
+![Profile Banner](../img/Adeline.png)
 
 I am an **Applied Mathematics** and **Psychology** student at Texas State University, passionate about data analytics and machine learning. With a GPA of **3.97**, I aim to apply my analytical skills to real-world challenges and contribute to meaningful research.
 
